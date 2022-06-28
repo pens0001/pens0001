@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pens0001
+- 👋 Hi, I’m Amilton Pensamento
 - 👀 I’m interested in Radar, Communications, Automotive Industry, Machine Learning and AI
 - 🌱 I’m currently learning Phython
 - 💞️ I’m looking to collaborate on projects related to my area of interest
